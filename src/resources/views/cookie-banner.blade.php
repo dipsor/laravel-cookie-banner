@@ -183,8 +183,7 @@
 
     function getTime(days) {
         let date = new Date();
-        // date.setTime(date.getTime()+(days*24*60*60*1000));
-        date.setTime(date.getTime()+(3*1000));
+        date.setTime(date.getTime()+(days*24*60*60*1000));
 
         return date.toGMTString()
     }
