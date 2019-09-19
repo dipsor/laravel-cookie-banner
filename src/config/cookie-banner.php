@@ -15,7 +15,7 @@ return [
     |--------------------------------------------------------------------------
     |
     */
-    'banner_text' => env('BANNER_TEXT', 'This website uses cookies. We use cookies that are essential to the functioning of our website and to analyse our website traffic. further information can be found in our '),
+    'banner_text' => env('BANNER_TEXT', 'This website uses cookies. We use cookies that are essential to the functioning of our website and to analyse our website traffic. Further information can be found in our '),
     /*
     |--------------------------------------------------------------------------
     | Cookie Banner - url
