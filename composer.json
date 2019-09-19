@@ -1,0 +1,25 @@
+{
+  "name": "digitonic/cookie-banner",
+  "description": "Adds cookie banner style with js",
+  "keywords": ["cookie", "banner"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Miroslav Masek",
+      "email": "miroslav@digitonic.co.ul"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Digitonic\\CookieBanner\\": "src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Digitonic\\CookieBanner\\CookieBannerServiceProvider"
+      ]
+    }
+  }
+}
