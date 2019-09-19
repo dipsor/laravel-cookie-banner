@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Digitonic\\CookieBanner\\": "src"
+      "Dipsor\\CookieBanner\\": "src"
     }
   },
   "extra": {
