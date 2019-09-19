@@ -1,5 +1,5 @@
 <?php
-namespace Digitonic\CookieBanner;
+namespace Dipsor\CookieBanner;
 
 use Illuminate\Support\ServiceProvider;
 

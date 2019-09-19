@@ -1,5 +1,5 @@
 {
-  "name": "digitonic/cookie-banner",
+  "name": "dipsor/cookie-banner",
   "description": "Adds cookie banner style with js",
   "keywords": ["cookie", "banner"],
   "type": "library",
@@ -18,7 +18,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Digitonic\\CookieBanner\\CookieBannerServiceProvider"
+        "Dipsor\\CookieBanner\\CookieBannerServiceProvider"
       ]
     }
   }
